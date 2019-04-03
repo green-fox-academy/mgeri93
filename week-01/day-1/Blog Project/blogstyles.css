@@ -1,0 +1,69 @@
+body {
+    font: consolas;
+    margin: auto
+    }
+
+.header {
+    width: 100%;
+    background-color: grey;
+    background-size: cover;
+    height: 60px;
+    margin: 20p auto;
+    border: 1px solid black;
+}
+   
+#title {
+        padding: 10px 10%;
+    }
+
+.content {
+    padding: 0 10%;
+}
+
+
+article {
+  padding: 3px;
+  border: 1px solid black;
+  margin: 10px auto;
+  overflow: scroll;
+  height: auto;
+  word-wrap: normal;
+  
+}
+
+article p {
+  padding-left: 5px;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    font-weight: normal;
+    margin-top: 3px;
+}
+
+h3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+p {
+    margin: 0;
+}
+
+#contentbox {
+    width: 600px;
+    height: 200px;
+    margin-bottom: 15px;
+}
+
+form {
+    margin-bottom: 10px;
+}
+
+#Submit {
+    border: 2px bold black;
+    border-radius: 15%;
+}

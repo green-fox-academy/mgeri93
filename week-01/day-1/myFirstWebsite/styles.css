@@ -1,0 +1,59 @@
+body {
+    background-image:
+        url(assets/topography.png);
+    background-size: cover;
+    background-position: center;
+    font: consolas;
+    margin: 0 auto;
+    padding: 0 auto;
+    }
+
+.header {
+    width: 100%;
+    background-color: #333333;
+    height: 60px;
+    margin: 20p auto;
+    
+}
+
+a {
+    color: #ff0099;
+    font-weight: bold;
+    text-decoration: underline;
+    float: right;
+    padding: 15px;
+        
+}
+
+.logo {
+    height: 35px;
+    padding: 10px 10%;
+    
+}
+
+.separator {
+    margin: 0 auto;
+    text-align: center;
+    width: 30px;
+    
+}
+
+ #wiki{
+     margin: 0 auto;
+     text-align: center;
+     font-weight: bold
+}
+
+.content {
+    padding: 0 10%;
+}
+
+.subtitle {
+    color: #ff0099;
+}
+
+.name {
+    font
+}
+
+
