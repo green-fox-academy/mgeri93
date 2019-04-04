@@ -13,11 +13,13 @@ public class AnimalsAndLegs {
 
         System.out.println("How many pigs does the farmer have?");
         Scanner scanner2 = new Scanner(System.in);
-        int userInput2 =  scanner1.nextInt();
+        int userInput2 =  scanner2.nextInt();
 
         int allLegs = ((userInput1 * 2) + (userInput2 * 4));
 
         System.out.println(("The animals have ") + (allLegs) + (" legs in total."));
+
+
 
     }
 }

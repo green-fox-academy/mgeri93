@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28200134-537c-4147-9039-0d6f6be4eec4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AverageOfInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AnimalsAndLegs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnimalsAndLegs.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,20 +39,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MileToKmConverter.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AverageOfInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="43" />
+            <state relative-caret-position="17">
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AnimalsAndLegs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="83" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
+            <state relative-caret-position="255">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -87,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/HelloUser.java" />
         <option value="$PROJECT_DIR$/src/MileToKmConverter.java" />
         <option value="$PROJECT_DIR$/src/AnimalsAndLegs.java" />
+        <option value="$PROJECT_DIR$/src/AverageOfInput.java" />
       </list>
     </option>
   </component>
@@ -145,9 +150,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnimalsAndLegs">
+  <component name="RunManager" selected="Application.AverageOfInput">
     <configuration name="AnimalsAndLegs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnimalsAndLegs" />
+      <module name="Practicing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AverageOfInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AverageOfInput" />
       <module name="Practicing" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -174,20 +186,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableMutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariableMutation" />
-      <module name="Practicing" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AverageOfInput" />
         <item itemvalue="Application.AnimalsAndLegs" />
         <item itemvalue="Application.MileToKmConverter" />
         <item itemvalue="Application.HelloUser" />
         <item itemvalue="Application.SecondsInADay" />
-        <item itemvalue="Application.VariableMutation" />
       </list>
     </recent_temporary>
   </component>
@@ -201,16 +206,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554369874045</updated>
-      <workItem from="1554369878629" duration="10484000" />
+      <workItem from="1554369878629" duration="11103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10484000" />
+    <option name="totallyTimeSpent" value="11103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -359,8 +363,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AnimalsAndLegs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="83" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AverageOfInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
