@@ -7,11 +7,11 @@ public class SecondsInADay {
         // Write a program that prints the remaining seconds (as an integer) from a
         // day if the current time is represented by the variables
 
-        int remainingHours   = (23 - currentHours);
-        int remainingMinutes = (59 - currentMinutes);
+        int remainingHoursInSeconds   = ((23 - currentHours) * 3600);
+        int remainingMinutesInSeconds = ((59 - currentMinutes) * 60);
         int remainingSeconds = (60 - currentSeconds);
 
-        System.out.println(remainingHours + ":" + remainingMinutes + ":" + remainingSeconds);
+        System.out.println(("Remaining seconds of day is: ") + (remainingHoursInSeconds + remainingMinutesInSeconds + remainingSeconds));
 
 
     }
