@@ -26,8 +26,8 @@ public class PartyIndicator {
         int boys =  scanner2.nextInt();
 
         if ((girls == boys) && ((girls + boys) >= 20)) {
-            System.out.println("The party is excellent!");
-        } else if ((girls != boys) && ((girls + boys) >= 20)) {
+            System.out.println("The party is excellent!");0
+        } else if ((girls != boys) && ((girls + boys) >= 20) && (girls != 0)) {
             System.out.println("Quite cool party!");
         } else if ((girls == 0)) {
             System.out.println("Sausage party");
