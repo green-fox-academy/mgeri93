@@ -15,8 +15,11 @@ public class Cuboid {
         double area = (2 * (a*b)) + (2 * (a*c)) + (2 * (b*c));
         double volume = a*b*c;
 
-        System.out.println("Surface area: " + area);
-        System.out.println("Volume: " + volume);
+        String VolumeAsString = String.format("%.0f", volume);
+        String AreaAsString = String.format("%.0f", area);
+
+        System.out.println("Surface area: " + AreaAsString);
+        System.out.println("Volume: " + VolumeAsString);
 
 
     }
