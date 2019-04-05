@@ -16,32 +16,7 @@ public class DrawDiamond{
 //
 // The diamond should have as many lines as the number was
 
-        //Start to decrease after input/2 +1
 
-      /*  System.out.println("Please insert your number");
-        Scanner scanner = new Scanner(System.in);
-        int userInput =  scanner.nextInt();
-
-
-        for (int i=1; (i <(userInput + 1)); i += 2) {
-            for (int k = 0; k < (userInput - i / 2); k++) {
-                System.out.print(" ");
-            }
-            for (int j = 0; j < i; j++) {
-                System.out.print("*");
-            }
-            System.out.println("");
-
-            for (i = (userInput / 2 + 1); (i > 0); i += 2) {
-                for (int k = 0; k < (userInput - i / 2); k++) {
-                    System.out.print(" ");
-                }
-                for (int j = 0; j < i; j++) {
-                    System.out.print("*");
-                }
-                System.out.println("");
-            }
-*/
         System.out.println("Please enter the required number of lines for the diamond");
         Scanner scanner = new Scanner(System.in);
         int userInput =  scanner.nextInt();
@@ -76,7 +51,6 @@ public class DrawDiamond{
                 System.out.print("\n");
             }
         }
-/* Ugly with even numbers */
 
 }
 }

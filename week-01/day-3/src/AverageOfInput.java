@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class AverageOfInput {
@@ -16,12 +15,10 @@ public class AverageOfInput {
         int userInput4 =  scanner.nextInt();
         int userInput5 =  scanner.nextInt();
 
+
         int sum = (userInput1 + userInput2 + userInput3 + userInput4 + userInput5);
-        int avg = ((userInput1 + userInput2 + userInput3 + userInput4 + userInput5) / 5);
+        double avg = ((userInput1 + userInput2 + userInput3 + userInput4 + userInput5) / 5d);
 
-        System.out.println("The sum of the numbers is: " + (sum) + ", and their average is: " + (avg) + ".");
-
-
-
+        System.out.println("The sum of the numbers is: " + (sum) + " , and their average is: " + (avg) );
     }
 }
