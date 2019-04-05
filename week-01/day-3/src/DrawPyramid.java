@@ -12,13 +12,13 @@ public class DrawPyramid {
 // *******
 //
 // The pyramid should have as many lines as the number was
-        // NOT YET FINISHED
+        // NOT YET FINISHED!!!!!!!!!!!!!!!!!!!
 
         System.out.println("Please insert your number");
         Scanner scanner = new Scanner(System.in);
         int userInput =  scanner.nextInt();
 
-        for (int i=1; i<=(userInput); i += 2)
+        for (int i=1; (i / 2)<(userInput); i += 2)
         {
             for (int k=0; k < (userInput - i / 2 ); k++)
             {

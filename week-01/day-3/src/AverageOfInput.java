@@ -8,30 +8,18 @@ public class AverageOfInput {
 //
 // Sum: 22, Average: 4.4
 
-        System.out.println("Please insert the first number");
-        Scanner scanner1 = new Scanner(System.in);
-        int userInput1 =  scanner1.nextInt();
-
-        System.out.println("Please insert the second number");
-        Scanner scanner2 = new Scanner(System.in);
-        int userInput2 =  scanner2.nextInt();
-
-        System.out.println("Please insert the third number");
-        Scanner scanner3 = new Scanner(System.in);
-        int userInput3 =  scanner3.nextInt();
-
-        System.out.println("Please insert the fourth number");
-        Scanner scanner4 = new Scanner(System.in);
-        int userInput4 =  scanner4.nextInt();
-
-        System.out.println("Please insert the fifth number");
-        Scanner scanner5 = new Scanner(System.in);
-        int userInput5 =  scanner5.nextInt();
+        System.out.println("Please insert your numbers:");
+        Scanner scanner = new Scanner(System.in);
+        int userInput1 =  scanner.nextInt();
+        int userInput2 =  scanner.nextInt();
+        int userInput3 =  scanner.nextInt();
+        int userInput4 =  scanner.nextInt();
+        int userInput5 =  scanner.nextInt();
 
         int sum = (userInput1 + userInput2 + userInput3 + userInput4 + userInput5);
         int avg = ((userInput1 + userInput2 + userInput3 + userInput4 + userInput5) / 5);
 
-        System.out.println(("The sum of the numbers is: ") + (sum) + (", and their average is: ") + (avg) + ("."));
+        System.out.println("The sum of the numbers is: " + (sum) + ", and their average is: " + (avg) + ".");
 
 
 

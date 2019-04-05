@@ -18,7 +18,7 @@ public class DrawChessTable {
             for (int b=0; b < 8; b++) {
                 if ((a + b) % 2 == 0) {
                     System.out.print("%");
-                } else System.out.print(" ");
+                } else {System.out.print(" ");}
             }
 
             System.out.println(" ");

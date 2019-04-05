@@ -8,6 +8,17 @@ public class Cuboid {
 // Volume: 1000
         //
 
+        double a = 10;
+        double b = 5;
+        double c = 15;
+
+        double area = (2 * (a*b)) + (2 * (a*c)) + (2 * (b*c));
+        double volume = a*b*c;
+
+        System.out.println("Surface area: " + area);
+        System.out.println("Volume: " + volume);
+
+
     }
 
 }
