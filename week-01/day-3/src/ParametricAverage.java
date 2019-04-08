@@ -10,21 +10,22 @@ public class ParametricAverage {
 //
 // Sum: 22, Average: 4.4
 
+        int i,numberOfIntegers, sum = 0;
+        double avg;
+        Scanner userInput=new Scanner(System.in);
+        System.out.println("Please enter the length of the array");
+        numberOfIntegers=userInput.nextInt();
 
+        int a[ ] = new int[numberOfIntegers];
+        for(i=0;i<numberOfIntegers;i++)
+        {
+            System.out.println("Please enter value of array");
+            a[i]=userInput.nextInt();
+            sum = sum + a[i];
 
-        System.out.println("Please insert your number");
-        Scanner scanner = new Scanner(System.in);
-        int userInput =  scanner.nextInt();
-
-        int numbOfInts[userInput]={}
-
-        int a = 0;
-        while ( a < userInput) {
-            System.out.println("Please insert your number");
-            Scanner scanner1 = new Scanner(System.in);
-            int newInput = scanner1.nextInt();
-            newInput =
         }
+        avg = (double)sum / numberOfIntegers;
+        System.out.printf("Sum: " + sum + ", Average: " + avg);
 
 
 
