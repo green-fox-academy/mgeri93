@@ -9,12 +9,12 @@ public class AppendAFunc {
 // - Print the result of `appendAFunc(typo)`
   static String typo = ("Chinchill");
   public static void main (String[] args){
-  appendAfunc();
-    System.out.print(appendAfunc());
+  appendAfunc(typo);
+    System.out.print(appendAfunc(typo));
   }
 
-  public static  String appendAfunc (){
-    return (typo +"a");
+  public static  String appendAfunc (String a){
+    return (a + "a");
 
   }
 
