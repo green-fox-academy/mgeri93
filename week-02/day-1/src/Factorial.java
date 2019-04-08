@@ -6,7 +6,7 @@ public class Factorial {
 //   that returns it's input's factorial
   static int factorial = 1;
   public static void main (String[] args){
-    System.out.println(factorio(10));
+    System.out.println(factorio(4));
 
   }
   public static int factorio(int a){
