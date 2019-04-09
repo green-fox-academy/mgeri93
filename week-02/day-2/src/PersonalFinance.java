@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class PersonalFinance {
@@ -26,8 +27,10 @@ What was the average amount of our spendings?
       sum = sum + expenses.get(i);
     }
     System.out.println("We spent: " + sum);
-    
 
-
+    Collections.sort(expenses);
+    System.out.println("The greatest expense was: " + expenses.get(expenses.size()-1));
+    System.out.println("The cheapest expense was: " + expenses.get(0) );
+    System.out.println("The average amount of spending is: " + (sum /= expenses.size()));
   }
 }
