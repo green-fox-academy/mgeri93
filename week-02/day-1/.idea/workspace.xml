@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b7d923-ba96-43f6-a5cc-ea6110c1c204" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SubInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/Strings and ArrayLists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/src/Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/src/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/src/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/src/SimpleReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/src/TakesLonger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/src/TodoPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/src/UrlFixer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-2/src/Lists2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-2/src/Maps2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-2/src/PersonalFinance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

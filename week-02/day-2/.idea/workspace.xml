@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0398c21d-bcdd-4ea0-9b0d-c2629c887378" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-1/src/SubInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings and ArrayLists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TakesLonger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TodoPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UrlFixer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lists2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Maps2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonalFinance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
+            <state relative-caret-position="578">
               <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -53,11 +47,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Maps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
+            <state relative-caret-position="544">
               <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lists2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Maps2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="31" column="53" lean-forward="true" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PersonalFinance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,13 +132,9 @@
         <option value="$PROJECT_DIR$/src/Reverse.java" />
         <option value="$PROJECT_DIR$/src/Lists.java" />
         <option value="$PROJECT_DIR$/src/Maps.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/Lists2.java" />
+        <option value="$PROJECT_DIR$/src/Maps2.java" />
+        <option value="$PROJECT_DIR$/src/PersonalFinance.java" />
       </list>
     </option>
   </component>
@@ -144,6 +170,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -161,9 +188,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Maps">
+  <component name="RunManager" selected="Application.PersonalFinance">
     <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lists" />
+      <module name="Strings and ArrayLists" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lists2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lists2" />
       <module name="Strings and ArrayLists" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -176,22 +210,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse" />
+    <configuration name="Maps2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maps2" />
       <module name="Strings and ArrayLists" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TakesLonger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TakesLonger" />
-      <module name="Strings and ArrayLists" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TodoPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TodoPrint" />
+    <configuration name="PersonalFinance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonalFinance" />
       <module name="Strings and ArrayLists" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -199,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonalFinance" />
+        <item itemvalue="Application.Maps2" />
+        <item itemvalue="Application.Lists2" />
         <item itemvalue="Application.Maps" />
         <item itemvalue="Application.Lists" />
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.TodoPrint" />
-        <item itemvalue="Application.TakesLonger" />
       </list>
     </recent_temporary>
   </component>
@@ -217,12 +244,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554798204216</updated>
-      <workItem from="1554798214360" duration="11653000" />
+      <workItem from="1554798214360" duration="17695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11653000" />
+    <option name="totallyTimeSpent" value="17695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -280,6 +307,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Maps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lists2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TakesLonger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -289,7 +333,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="578">
           <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -304,10 +348,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Maps.java">
+    <entry file="file://$PROJECT_DIR$/src/Maps2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="53" lean-forward="true" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PersonalFinance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
