@@ -16,22 +16,8 @@ public class PositionSquare {
     // draw 3 squares with that function.
     // avoid code duplication.
 
-    for (int i = 1 ; i < 40; i++){
-      if ((int)(Math.random()*10) == 0) {
-        graphics.setColor(Color.GREEN);
-      } else if ((int)(Math.random()*10) == 1) {
-        graphics.setColor(Color.BLUE);
-      }else if ((int)(Math.random()*10) == 2) {
-        graphics.setColor(Color.RED);
-      }else if ((int)(Math.random()*10) == 3) {
-        graphics.setColor(Color.YELLOW);
-      }else if ((int)(Math.random()*10) == 4) {
-        graphics.setColor(Color.PINK);
-      }else if ((int)(Math.random()*10) == 5) {
-        graphics.setColor(Color.ORANGE);
-      }else if ((int)(Math.random()*10) == 6) {
-        graphics.setColor(Color.CYAN);
-      }
+    for (int i = 1 ; i < 4; i++){
+
       squareDrawer((int)(Math.random() * 1900), (int)(Math.random() * 1000), graphics);
     }
 
