@@ -16,19 +16,19 @@ public class StarryNight {
     //  - The stars should have random color (some shade of grey)
 
     for (int i = 1 ; i < 200; i++){
-      if ((int)(Math.random()*10) == 0) {
+      if ((int)(Math.random()*7) == 0) {
         graphics.setColor(new Color(211,211,211));
-      } else if ((int)(Math.random()*10) == 1) {
+      } else if ((int)(Math.random()*7) == 1) {
         graphics.setColor(new Color(220,220,220));
-      }else if ((int)(Math.random()*10) == 2) {
+      }else if ((int)(Math.random()*7) == 2) {
         graphics.setColor(new Color(192,192,192));
-      }else if ((int)(Math.random()*10) == 3) {
+      }else if ((int)(Math.random()*7) == 3) {
         graphics.setColor(new Color(169,169,169));
-      }else if ((int)(Math.random()*10) == 4) {
+      }else if ((int)(Math.random()*7) == 4) {
         graphics.setColor(new Color(128,128,128));
-      }else if ((int)(Math.random()*10) == 5) {
+      }else if ((int)(Math.random()*7) == 5) {
         graphics.setColor(new Color(112,128,144));
-      }else if ((int)(Math.random()*10) == 6) {
+      }else if ((int)(Math.random()*7) == 6) {
         graphics.setColor(new Color(105,105,105));
       }
       squareDrawer((int)(Math.random() * 1900), (int)(Math.random() * 1000), graphics);

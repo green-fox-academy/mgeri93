@@ -16,9 +16,24 @@ public class PositionSquare {
     // draw 3 squares with that function.
     // avoid code duplication.
 
-    for (int i = 1 ; i < 4; i++){
 
-      squareDrawer((int)(Math.random() * 1900), (int)(Math.random() * 1000), graphics);
+    for (int i = 1 ; i < 50; i++){
+      if ((int)(Math.random()*10) == 0) {
+        graphics.setColor(Color.BLUE);
+      } else if ((int)(Math.random()*7) == 1) {
+        graphics.setColor(Color.RED);
+      }else if ((int)(Math.random()*7) == 2) {
+        graphics.setColor(Color.GREEN);
+      }else if ((int)(Math.random()*7) == 3) {
+        graphics.setColor(Color.YELLOW);
+      }else if ((int)(Math.random()*7) == 4) {
+        graphics.setColor(Color.CYAN);
+      }else if ((int)(Math.random()*7) == 5) {
+        graphics.setColor(Color.ORANGE);
+      }else if ((int)(Math.random()*7) == 6) {
+        graphics.setColor(new Color(110,10,255));
+      }
+      squareDrawer((int)(Math.random() * 1920), (int)(Math.random() * 1080), graphics);
     }
 
 
@@ -47,4 +62,19 @@ public class PositionSquare {
     }
   }
 
-}
+}    /*for (int i = 1 ; i < 50; i++){
+        if ((int)(Math.random()*10) == 0) {
+        graphics.setColor(Color.BLUE);
+        } else if ((int)(Math.random()*10) == 1) {
+        graphics.setColor(Color.RED);
+        }else if ((int)(Math.random()*10) == 2) {
+        graphics.setColor(Color.GREEN);
+        }else if ((int)(Math.random()*10) == 3) {
+        graphics.setColor(Color.YELLOW);
+        }else if ((int)(Math.random()*10) == 4) {
+        graphics.setColor(Color.CYAN);
+        }else if ((int)(Math.random()*10) == 5) {
+        graphics.setColor(Color.ORANGE);
+        }else if ((int)(Math.random()*10) == 6) {
+        graphics.setColor(new Color(110,10,255));
+        }*/

@@ -7,15 +7,14 @@ public class AppendAFunc {
 //   appends an 'a' character to its end and returns with a string
 //
 // - Print the result of `appendAFunc(typo)`
-  static String typo = ("Chinchill");
+
   public static void main (String[] args){
-  appendAfunc(typo);
+    String typo = ("Chinchill");
     System.out.print(appendAfunc(typo));
   }
 
   public static  String appendAfunc (String a){
     return (a + "a");
-
   }
 
 

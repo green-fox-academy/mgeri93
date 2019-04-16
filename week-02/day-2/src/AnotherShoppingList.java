@@ -39,6 +39,7 @@ Who buys more different products? check
 Who buys more products? (piece)
 
      */
+    System.out.println(bob.values());
 
     if (bob.size()> alice.size()){
       System.out.println("Bob buys more different products.");

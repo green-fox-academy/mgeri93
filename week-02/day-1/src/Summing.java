@@ -3,11 +3,12 @@ public class Summing {
 
 // Write a function called `sum` that returns the sum of numbers from zero to the given parameter
 
-  static int sum = 0;
+
   public static void main (String[] args){
-  System.out.print(addElements(10));
+  System.out.print(addElements(5));
 }
   public static int addElements (int a) {
+    int sum = 0;
   for (int i = 0; i <= a; i++){
     sum += i;
   }

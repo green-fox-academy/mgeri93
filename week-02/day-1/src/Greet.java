@@ -1,14 +1,13 @@
 
 public class Greet {
-
-  static String al = "Greenfox";
-
   public static void main(String[] args) {
-    greet();
+    String al = "Greenfox";
+    System.out.println(greet(al));
   }
 
-  public static void greet() {
-    System.out.println("Greetings, dear " + al);
+  public static String greet(String n) {
+    return "Greetings, dear " + n;
+
 
     //  From now on, create the usual class wrapper
 //  and main method on your own.
