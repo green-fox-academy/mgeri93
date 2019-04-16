@@ -2,39 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffe68f92-87d5-40a4-8656-1e65fb27c21e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-1/src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-1/src/SubInt2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/src/SolarSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-5/Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-5/src/Triangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day02/src/DividByZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day02/src/PrintEachLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day02/src/my-file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-1/src/AppendAFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-1/src/AppendAFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-1/src/Doubling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-1/src/Doubling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-1/src/Greet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-1/src/Greet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-1/src/Summing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-1/src/Summing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/src/AnotherShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/src/AnotherShoppingList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-2/src/TelephoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/src/TelephoneBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/src/CheckerBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/src/CheckerBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/src/ConnectTheDots.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/src/ConnectTheDots.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/src/PositionSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/src/PositionSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-3/src/StarryNight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-3/src/StarryNight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bunnies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bunnies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BunniesAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BunniesAgain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GreatestCommonDivisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaximumFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaximumFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberAdder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringsAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsAgain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringsAgainAndAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsAgainAndAgain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SumDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/day02/src/CountLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day02/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -212,6 +182,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
