@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffe68f92-87d5-40a4-8656-1e65fb27c21e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-03/day02/src/CountLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/day02/src/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/day02/src/WriteMultipleLines.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-03/day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day02/src/CountLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day02/src/CountLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day02/src/WriteSingleLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day02/src/WriteSingleLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day02/src/my-file.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

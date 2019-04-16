@@ -11,7 +11,7 @@ public class CountLines {
 // then returns the number of lines the file contains.
 // It should return zero if it can't open the file, and
 // should not raise any error.
-    countLines("C:\\greenfox\\mgeri93\\week-03\\day02\\src\\my-file.txt");
+    countLines("my-file.txt");
   }
 
   public static void countLines(String fileName) {
