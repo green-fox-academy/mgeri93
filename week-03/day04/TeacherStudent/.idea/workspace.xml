@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3d8b0c9-f9fe-4e0c-a78f-425a5abf5261" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PetrolStation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PetrolStation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PetrolStation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PetrolStation/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PetrolStation/PetrolStation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PetrolStation/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PetrolStation/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PetrolStation/src/Station.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeacherStudent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day03/DiceSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/DiceSet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day03/DiceSet/src/DiceSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/DiceSet/src/DiceSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day03/FleetOfThings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/FleetOfThings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/src/SharpieSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/src/SharpieSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -171,12 +154,12 @@
       <option name="presentableId" value="Default" />
       <updated>1555572909064</updated>
       <workItem from="1555572913412" duration="2340000" />
-      <workItem from="1555575477659" duration="903000" />
+      <workItem from="1555575477659" duration="2072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3243000" />
+    <option name="totallyTimeSpent" value="4412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
