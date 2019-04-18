@@ -31,7 +31,6 @@ public class DiceSet {
   }
 
 
-
   public static void main(String[] args) {
     // You have a `DiceSet` class which has a list for 6 dice
     // You can roll all of them with roll()
@@ -40,13 +39,11 @@ public class DiceSet {
     // Your task is to roll the dice until all of the dice are 6
 
 
-    int j = 0;
-
     DiceSet diceSet = new DiceSet();
     System.out.println(diceSet.getCurrent());
     System.out.println(diceSet.roll());
-    for (int i = 0; i < 6 ; i++){
-      while(diceSet.getCurrent(i) != 6){
+    for (int i = 0; i < 6; i++) {
+      while (diceSet.getCurrent(i) != 6) {
         diceSet.reroll(i);
         System.out.println(diceSet.getCurrent());
       }

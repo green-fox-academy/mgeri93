@@ -2,23 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78c21a89-0be1-4a1c-8d24-c03be442c514" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DiceSet/src/DiceSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FleetOfThings/src/Fleet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FleetOfThings/src/FleetOfThings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FleetOfThings/src/Thing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectOrientedProgramming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pokemon/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pokemon/src/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlogPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlogPostMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CounterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PostIt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PostItMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sharpie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/PetrolStation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/PetrolStation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/PetrolStation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/PetrolStation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/PetrolStation/PetrolStation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/PetrolStation/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/PetrolStation/src/Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/TeacherStudent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/TeacherStudent/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/TeacherStudent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/TeacherStudent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/TeacherStudent/TeacherStudent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/TeacherStudent/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/TeacherStudent/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04/TeacherStudent/src/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceSet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DiceSet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceSet/src/DiceSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/DiceSet/src/DiceSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FleetOfThings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FleetOfThings/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,8 +97,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="288">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
               <folding>
                 <element signature="e#235#236#0" expanded="true" />
                 <element signature="e#273#274#0" expanded="true" />
@@ -169,19 +171,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/Pokemon/Pokemon.iml" />
-        <option value="$PROJECT_DIR$/FleetOfThings/FleetOfThings.iml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -214,6 +207,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -259,7 +253,7 @@
       <option name="presentableId" value="Default" />
       <updated>1555436391932</updated>
       <workItem from="1555436397181" duration="1482000" />
-      <workItem from="1555486519850" duration="14858000" />
+      <workItem from="1555486519850" duration="16506000" />
     </task>
     <servers />
   </component>
@@ -281,7 +275,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16340000" />
+    <option name="totallyTimeSpent" value="17988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -297,7 +291,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32957748" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32957748" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32957748" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -405,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="288">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
           <folding>
             <element signature="e#235#236#0" expanded="true" />
             <element signature="e#273#274#0" expanded="true" />
