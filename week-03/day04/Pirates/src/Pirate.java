@@ -12,7 +12,7 @@ public class Pirate {
 
   void drinkSomeRum() {
     if (!this.isDead) {
-      this.rum++;  //ask this
+      this.rum++;
     } else {
       System.out.println("'Arghh, I'ma Pirate. How d'ya d'ink its goin?'");
     }
@@ -25,6 +25,7 @@ public class Pirate {
         System.out.println("'Pour me anudder!'");
       } else {
         System.out.println("'Arghh, I'ma Pirate. How d'ya d'ink its goin?'");
+        this.isAsleep = true;
       }
     } else System.out.println("he's dead");
   }
@@ -38,17 +39,27 @@ public class Pirate {
     this.isDead = true;
   }
 
-  void brawl(Pirate pirate) {
-    if (!this.isDead && !pirate.isDead) {
+  void brawl(Pirate anotherPirate) {
+    if (!this.isDead && !anotherPirate.isDead) {
       if ((int) (Math.random() * 3) == 1) {
         this.isDead = true;
       } else if ((int) (Math.random() * 3) == 2) {
-        pirate.isDead = true;
+        anotherPirate.isDead = true;
       } else {
-        this.isDead = true;
-        pirate.isDead = true;
+        this.isAsleep = true;
+        anotherPirate.isAsleep = true;
       }
     } else System.out.println("he's dead");
+  }
+
+  String getState() {
+    if (this.isDead) {
+      return "dead";
+    }
+    if (this.isAsleep) {
+      return "passed out";
+    }
+    return "active";
   }
 
 
