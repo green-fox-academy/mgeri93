@@ -3,6 +3,7 @@ public class Pirate {
   boolean isAsleep = false;
   boolean isDead = false;
   int parrot;
+  boolean Captain = false;
 
 
   public Pirate() {
@@ -10,7 +11,11 @@ public class Pirate {
   }
 
   void drinkSomeRum() {
-    //this.isDead = true ? System.out.println("he's dead") : this.rum++;  //ask this
+    if (!this.isDead) {
+      this.rum++;  //ask this
+    } else {
+      System.out.println("'Arghh, I'ma Pirate. How d'ya d'ink its goin?'");
+    }
 
   }
 

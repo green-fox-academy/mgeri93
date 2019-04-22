@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78c21a89-0be1-4a1c-8d24-c03be442c514" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day04/Blog/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Blog/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Blog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Blog/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Blog/Blog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Blog/src/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Blog/src/BlogPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Blog/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Farm/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Farm/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Farm/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Farm/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Farm/Farm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Farm/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Farm/src/Farm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Pirates/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Pirates/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Pirates/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Pirates/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Pirates/Pirates.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Pirates/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Pirates/src/Pirate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04/Pirates/src/Ship.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SharpieSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SharpieSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04/TeacherStudent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/TeacherStudent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04/Pirates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/Pirates/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04/Pirates/src/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/Pirates/src/Pirate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04/Pirates/src/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04/Pirates/src/Ship.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Counter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
+            <state relative-caret-position="256">
               <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
               <folding>
                 <element signature="e#205#206#0" expanded="true" />
@@ -113,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CounterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
+            <state relative-caret-position="672">
               <caret line="46" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -124,7 +102,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BlogPostMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
@@ -137,16 +115,16 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
-              <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SharpieSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="72">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#127#128#0" expanded="true" />
@@ -188,10 +166,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="523" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="524" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -271,7 +249,8 @@
       <updated>1555436391932</updated>
       <workItem from="1555436397181" duration="1482000" />
       <workItem from="1555486519850" duration="16506000" />
-      <workItem from="1555578578439" duration="10480000" />
+      <workItem from="1555578578439" duration="11230000" />
+      <workItem from="1555720491405" duration="63000" />
     </task>
     <servers />
   </component>
@@ -293,13 +272,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28468000" />
+    <option name="totallyTimeSpent" value="29281000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="761" y="0" width="782" height="419" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11044177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11294766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -355,17 +333,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-          <folding>
-            <element signature="e#74#75#0" expanded="true" />
-            <element signature="e#92#93#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PostItMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -380,10 +347,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#74#75#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -398,21 +369,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
+        <state relative-caret-position="256">
           <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
           <folding>
             <element signature="e#205#206#0" expanded="true" />
@@ -424,16 +383,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SharpieSet.java">
+    <entry file="file://$PROJECT_DIR$/src/CounterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="672">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -442,6 +399,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SharpieSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
