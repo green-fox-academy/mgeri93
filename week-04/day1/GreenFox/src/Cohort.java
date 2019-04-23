@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.List;
 
 public class Cohort {
@@ -21,8 +22,8 @@ public class Cohort {
 
   Cohort(String name){
     this.name = name;
-    this.mentors.isEmpty();
-    this.students.isEmpty();
+    this.mentors = new ArrayList<Mentor>();
+    this.students = new ArrayList<Student>();
   }
 
 }
