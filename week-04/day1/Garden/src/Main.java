@@ -10,18 +10,25 @@ public class Main {
 
 
 
+
     Flower yellow = new Flower("yellow");
-    flowers.add(yellow);
-    plants.add(yellow);
+    yellow.addFlower(yellow);
     Flower blue = new Flower("blue");
-    flowers.add(blue);
-    plants.add(blue);
+    blue.addFlower(blue);
     Tree purple = new Tree("purple");
-    trees.add(purple);
-    plants.add(purple);
+    purple.addTree(purple);
     Tree orange = new Tree("orange");
-    trees.add(orange);
-    plants.add(orange);
+    orange.addTree(orange);
+
+
+
+
+
+    System.out.println("The garden has " + flowers.size() + " flowers and " + trees.size() + " trees." );
+
+
+
+
 
 
 

@@ -15,10 +15,15 @@ public class Tree extends Plant {
   }
   List<Tree> trees = new ArrayList<>();
 
-  List addTree(Tree tree){
+  void addTree(Tree tree){
     trees.add(tree);
     plants.add(tree);
-    return trees;
+  }
+
+  void getTrees() {
+    for (int j = 0; j < trees.size(); j++) {
+      System.out.println(trees.get(j));
+    }
   }
 
 }

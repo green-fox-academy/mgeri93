@@ -16,10 +16,14 @@ public class Flower extends Plant {
 
   List<Flower> flowers = new ArrayList<>();
 
-  List addFlower(Flower flower){
+  void addFlower(Flower flower) {
     flowers.add(flower);
     plants.add(flower);
-    return flowers;
   }
 
+ /* String getFlowers() {
+    for (int j = 0; j < flowers.size(); j++) {
+      flowers.get(j);
+    }
+  }*/
 }
