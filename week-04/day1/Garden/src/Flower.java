@@ -9,6 +9,8 @@ public class Flower extends Plant {
     } else return false;
   }
 
+  double absorb = 0.25;
+
   Flower(String color) {
     this.color = color;
     this.plantWater = 0;

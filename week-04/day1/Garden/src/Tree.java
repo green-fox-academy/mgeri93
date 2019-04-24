@@ -9,6 +9,8 @@ public class Tree extends Plant {
     } else return false;
   }
 
+  double absorb = 0.6;
+
   Tree(String color) {
     this.color = color;
     this.plantWater = 0;
@@ -25,5 +27,7 @@ public class Tree extends Plant {
       System.out.println(trees.get(j));
     }
   }
+
+
 
 }

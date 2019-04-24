@@ -1,9 +1,9 @@
 import java.util.List;
-import  java.util.ArrayList;
+import java.util.ArrayList;
 
 public class Main {
 
-  public static void main(String[] args){
+  public static void main(String[] args) {
     List<Person> people = new ArrayList<>();
 
     Person mark = new Person("Mark", 46, "male");
@@ -33,7 +33,7 @@ public class Main {
       sponsor.hire();
     }
 
-    for(Person person : people) {
+    for (Person person : people) {
       person.introduce();
       person.getGoal();
     }
@@ -44,6 +44,11 @@ public class Main {
     awesome.addMentor(mentor);
     awesome.addMentor(gandhi);
     awesome.info();
+
+    Student johnTheClone = john.clone();
+    johnTheClone.introduce();
+
+
 
   }
 
