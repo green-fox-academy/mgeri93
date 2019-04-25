@@ -1,4 +1,4 @@
-public class Bird extends Animal {
+public class Bird extends Animal implements Flyable {
 
 
   public Bird(String name) {
@@ -21,4 +21,18 @@ public class Bird extends Animal {
   }
 
 
+  @Override
+  public void land() {
+
+  }
+
+  @Override
+  public void fly() {
+
+  }
+
+  @Override
+  public void takeOff() {
+
+  }
 }
