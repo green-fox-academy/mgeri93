@@ -38,6 +38,7 @@ Bass Guitar, a 5-stringed instrument that goes Duum-duum-duum */
     System.out.println("Test 2 Play");
     guitar2.play();
     bassGuitar2.play();
+
   }
 
 }
