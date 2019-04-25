@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f534fba5-a15c-4142-bba8-9e80989389c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../day3/Extension/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Extension/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Extension/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Extension/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Extension/Extension.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Extension/src/Extension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Extension/test/ExtensionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Fibonacci/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Fibonacci/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Fibonacci/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Fibonacci/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Fibonacci/Fibonacci.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Fibonacci/src/Fibonacci.java" afterDir="false" />
+    <list default="true" id="f9855e2b-d949-4a9d-b663-7d268188db3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Extension/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extension/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extension/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extension/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extension/Extension.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extension/src/Extension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Extension/test/ExtensionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/Fibonacci.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fibonacci/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/src/FleetOfThings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/src/FleetOfThings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/src/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/src/Thing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-03/day04/Pirates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day04/Pirates/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-03/day04/Pirates/src/Armada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day04/Pirates/src/Armada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day3/Anagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day3/Anagram/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day3/CountLetters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day3/CountLetters/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day2/Apples/src/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2/Apples/src/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day2/Flyable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2/Flyable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Anagram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Anagram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CountLetters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CountLetters/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,30 +38,16 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Flyable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Vehicle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Helicopter.java">
+        <entry file="file://$PROJECT_DIR$/src/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="112">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+              <folding>
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#107#108#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,7 +57,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -79,9 +67,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Flyable.java" />
-        <option value="$PROJECT_DIR$/src/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/Helicopter.java" />
+        <option value="$PROJECT_DIR$/../../day2/Apples/src/Apple.java" />
+        <option value="$PROJECT_DIR$/src/Animal.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -98,25 +92,28 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Flyable" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Flyable" type="462c0819:PsiDirectoryNode" />
+              <item name="Zoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zoo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zoo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zoo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -137,29 +134,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f534fba5-a15c-4142-bba8-9e80989389c6" name="Default Changelist" comment="" />
-      <created>1556119447488</created>
+      <changelist id="f9855e2b-d949-4a9d-b663-7d268188db3f" name="Default Changelist" comment="" />
+      <created>1556213748095</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1556119447488</updated>
-      <workItem from="1556119451423" duration="1136000" />
-      <workItem from="1556213262995" duration="486000" />
+      <updated>1556213748095</updated>
+      <workItem from="1556213750761" duration="992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1622000" />
+    <option name="totallyTimeSpent" value="992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14056225" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -167,44 +169,43 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/../../day2/Apples/src/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        <state relative-caret-position="128">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Flyable.java">
+    <entry file="file://$PROJECT_DIR$/../../day2/Instruments/src/main/java/music/Instrument.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Helicopter.java">
+    <entry file="file://$PROJECT_DIR$/src/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="112">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
