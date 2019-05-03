@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9a7f6e8-c13f-4096-83d1-50d817c62f0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Restaurant/Chef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Restaurant/Chef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Restaurant/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Restaurant/Manager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Restaurant/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Restaurant/Restaurant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week-05/Practicing2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-05/Practicing2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week-05/Practicing2/src/RainyDays/RainyDays.java" beforeDir="false" />
@@ -26,16 +26,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Restaurant/Restaurant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state relative-caret-position="368">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#315#316#0" expanded="true" />
                 <element signature="e#344#345#0" expanded="true" />
                 <element signature="e#365#366#0" expanded="true" />
                 <element signature="e#396#397#0" expanded="true" />
                 <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,7 +42,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Restaurant/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
+            <state relative-caret-position="336">
               <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
               <folding>
                 <element signature="e#126#127#0" expanded="true" />
@@ -78,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Restaurant/Chef.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-96">
-              <caret selection-end-line="33" />
+            <state relative-caret-position="176">
+              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
               <folding>
                 <element signature="e#130#131#0" expanded="true" />
                 <element signature="e#151#152#0" expanded="true" />
@@ -97,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Restaurant/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="416">
+              <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+              <folding>
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,8 +136,9 @@
         <option value="$PROJECT_DIR$/src/Restaurant.java" />
         <option value="$PROJECT_DIR$/src/Restaurant/Employee.java" />
         <option value="$PROJECT_DIR$/src/Restaurant/Waiter.java" />
-        <option value="$PROJECT_DIR$/src/Restaurant/Restaurant.java" />
         <option value="$PROJECT_DIR$/src/Restaurant/Chef.java" />
+        <option value="$PROJECT_DIR$/src/Restaurant/Manager.java" />
+        <option value="$PROJECT_DIR$/src/Restaurant/Restaurant.java" />
       </list>
     </option>
   </component>
@@ -265,7 +274,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556868544182</updated>
-      <workItem from="1556868547672" duration="5650000" />
+      <workItem from="1556868547672" duration="6046000" />
     </task>
     <servers />
   </component>
@@ -287,7 +296,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5650000" />
+    <option name="totallyTimeSpent" value="6046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -359,10 +368,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Restaurant/Manager.java">
+    <entry file="file://$PROJECT_DIR$/src/Restaurant/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="336">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -381,44 +401,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Restaurant/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Restaurant/Restaurant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding>
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Restaurant/Chef.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
-          <caret selection-end-line="33" />
+        <state relative-caret-position="176">
+          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
           <folding>
             <element signature="e#130#131#0" expanded="true" />
             <element signature="e#151#152#0" expanded="true" />
@@ -428,6 +414,37 @@
             <element signature="e#489#490#0" expanded="true" />
             <element signature="e#547#548#0" expanded="true" />
             <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Restaurant/Restaurant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Restaurant/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
           </folding>
         </state>
       </provider>

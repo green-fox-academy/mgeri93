@@ -25,9 +25,4 @@ public class Restaurant {
   public int getFoundedIn() {
     return foundedIn;
   }
-
-  public List<Restaurant.Employee> getRestaurant() {
-    return restaurant;
-  }
-
 }
