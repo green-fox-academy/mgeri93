@@ -25,5 +25,4 @@ public class MultiplyMatrixTest {
     int[][] matrix = {{1, 1, 1, 1}, {1, 5, 1, 1}, {1, 3, 1, 1}, {1, 1, 1, 5}};
     assertArrayEquals(expected, MultiplyMatrix.multiply(matrix));
   }
-
 }
