@@ -11,4 +11,19 @@ public abstract class Employee {
 
   public abstract void work();
 
+  public String getName() {
+    return name;
+  }
+
+  public int getExperience() {
+    return experience;
+  }
+
+  public void setName(String name) {
+    this.name = name;
+  }
+
+  public void setExperience(int experience) {
+    this.experience = experience;
+  }
 }
