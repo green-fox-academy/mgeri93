@@ -3,6 +3,20 @@ package MultiplyMatrix;
 public class MultiplyMatrix {
 
 public static void  main(String[] args){
+  int[][] matrix = new int[][]{{1, 3, 6,2}, {7, 5, 6, 1}, {3, 3, 1, 5}, {9, 0, 5, 3}};
+  int[][] multiplied = multiply(matrix);
+  for (int i = 0; i < multiplied.length; i++) {
+    for (int j = 0; j < multiplied[i].length; j++) {
+      System.out.print(multiplied[i][j] + " ");
+    }
+    System.out.println();
+  }
+
+
+/*  [1, 3, 6, 2],
+  [7, 5, 6, 1],
+  [3, 3, 1, 5],
+  [9, 0, 5, 3]*/
 
 
 }
