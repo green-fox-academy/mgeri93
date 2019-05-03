@@ -6,16 +6,16 @@ public class Restaurant {
 
   String name;
   int foundedIn;
-  List<Employee> restaurant;
+  List<Employee> employees;
 
   public void guestsArrived() {
-    for (Employee employee : restaurant) {
+    for (Employee employee : employees) {
       employee.work();
     }
   }
 
   public void hire(Employee employee) {
-    restaurant.add(employee);
+    employees.add(employee);
   }
 
   public String getName() {
