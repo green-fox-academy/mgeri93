@@ -18,4 +18,16 @@ public class Restaurant {
     restaurant.add(employee);
   }
 
+  public String getName() {
+    return name;
+  }
+
+  public int getFoundedIn() {
+    return foundedIn;
+  }
+
+  public List<Restaurant.Employee> getRestaurant() {
+    return restaurant;
+  }
+
 }
