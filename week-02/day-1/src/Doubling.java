@@ -1,4 +1,4 @@
-import java.util.function.DoubleFunction;
+
 public class Doubling {
 
   public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class Doubling {
     System.out.println(doubling(basenum));
   }
 
-  public static int doubling ( int x){
+  public static int doubling(int x) {
     return 2 * x;
   }
 

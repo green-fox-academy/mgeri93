@@ -1,33 +1,23 @@
 package SymmetricMatrix;
 
 public class SymmetricMatrix {
-/*  Create a function named isSymmetric that takes an n×n integer matrix (two dimensional array/list) as a parameter and returns true if the matrix is symmetric or false if it is not.
 
-  Symmetric means it has identical values along its diagonal axis from top-left to bottom-right, as in the first example.
+  public static void main(String[] args) {
 
-  for (int i = 0; i < a; i++) {
-      for (int j = 0; j < b; j++) {
-        if (i == j) {
-          matrix[i][j] = 1;
-          System.out.print(matrix[i][j]);
-        } else {
-          matrix[i][j] = 0;
-          System.out.print(matrix[i][j]);
+    int matrix[][] = {{1, 0, 1}, {0, 2, 2}, {1, 2, 5}};
+    System.out.println(isSymmetric(matrix));
+  }
+
+  public static boolean isSymmetric(int matrix[][]) {
+    int n = matrix.length;
+    for (int i = 0; i < n; i++) {
+      for (int j = 0; j < n; j++) {
+        if (matrix[i][j] != matrix[j][i]) {
+          return false;
         }
       }
-      System.out.println();
     }
-*/
-
-public boolean isSymmetric (int matrix[][]){
-  if
-
-
-
-
+    return true;
+  }
 }
-
-
-}
-
 

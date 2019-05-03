@@ -4,16 +4,15 @@ public class Summing {
 // Write a function called `sum` that returns the sum of numbers from zero to the given parameter
 
 
-  public static void main (String[] args){
-  System.out.print(addElements(5));
-}
-  public static int addElements (int a) {
-    int sum = 0;
-  for (int i = 0; i <= a; i++){
-    sum += i;
+  public static void main(String[] args) {
+    System.out.print(sum(5));
   }
-  return sum;
-}
 
-
+  public static int sum(int a) {
+    int sum = 0;
+    for (int i = 0; i <= a; i++) {
+      sum += i;
+    }
+    return sum;
+  }
 }

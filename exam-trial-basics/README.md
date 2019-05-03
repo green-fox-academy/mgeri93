@@ -120,8 +120,13 @@ Write a program which can store pirates in a ship.
 
 ### How can you generate a random number?
 
-*type your answer here*
+With the following code:
+
+int i = Math.random(). gives a double between 0 and 0.99
+in general:
+a + Math.random() * b  -> Returns a random number between a and a+b (excluding a + b)
 
 ### What is a ternary operator? How does it work?
 
-*type your answer here*
+basically a shorter if else function
+for example:  a ? b : c   if "a" is true we get back "b" else we get "c"

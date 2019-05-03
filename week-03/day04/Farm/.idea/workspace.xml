@@ -2,13 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89d62d85-3ccd-4b5b-bc1b-6923d3398b47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Farm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Farm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day03/src/SharpieSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/src/SharpieSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TeacherStudent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TeacherStudent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exam-trial-basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exam-trial-basics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exam-trial-basics/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exam-trial-basics/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exam-trial-basics/src/SymmetricMatrix/SymmetricMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exam-trial-basics/src/SymmetricMatrix/SymmetricMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-1/src/AppendA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-1/src/AppendA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-1/src/DoubleItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-1/src/DoubleItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-1/src/Doubling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-1/src/Doubling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-1/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-1/src/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-1/src/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-1/src/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-1/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-1/src/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-1/src/PrintAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-1/src/PrintAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-1/src/Summing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-1/src/Summing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-1/src/SwapElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-1/src/SwapElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-2/src/TelephoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-2/src/TelephoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/FleetOfThings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/FleetOfThings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/FleetOfThings/src/FleetOfThings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/FleetOfThings/src/FleetOfThings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day03/FleetOfThings/src/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day03/FleetOfThings/src/Thing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pirates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pirates/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pirates/src/Armada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Pirates/src/Armada.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,12 +35,12 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Farm.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,12 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Animal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
+            <state relative-caret-position="400">
               <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-              <folding>
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -70,7 +79,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,11 +105,14 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../week-04/day1/GreenFox" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -128,28 +139,23 @@
       <option name="presentableId" value="Default" />
       <updated>1555580743966</updated>
       <workItem from="1555580748825" duration="5265000" />
+      <workItem from="1556277067357" duration="250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5265000" />
+    <option name="totallyTimeSpent" value="5515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966533" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25301206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -157,15 +163,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,19 +185,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
+        <state relative-caret-position="400">
           <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-          <folding>
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Farm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

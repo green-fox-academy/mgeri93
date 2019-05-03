@@ -5,14 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28200134-537c-4147-9039-0d6f6be4eec4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-3/day-3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-3/src/ColoredBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-3/src/Diagonals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-3/src/GoToCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-02/day-3/src/LineInTheMiddle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam-trial-basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam-trial-basics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam-trial-basics/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam-trial-basics/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam-trial-basics/src/SymmetricMatrix/SymmetricMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam-trial-basics/src/SymmetricMatrix/SymmetricMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-02/day-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/src/AppendA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/src/AppendA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/src/DoubleItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/src/DoubleItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/src/Doubling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/src/Doubling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/src/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/src/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/src/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/src/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/src/PrintAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/src/PrintAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/src/Summing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/src/Summing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/src/SwapElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/src/SwapElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-02/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-2/src/AnotherShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-2/src/AnotherShoppingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-2/src/TelephoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-2/src/TelephoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day03/FleetOfThings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day03/FleetOfThings/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day03/FleetOfThings/src/FleetOfThings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day03/FleetOfThings/src/FleetOfThings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day03/FleetOfThings/src/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day03/FleetOfThings/src/Thing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day04/Farm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day04/Farm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day04/Pirates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day04/Pirates/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day04/Pirates/src/Armada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day04/Pirates/src/Armada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day1/GreenFox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day1/GreenFox/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DrawPyramid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="256">
               <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
             </state>
           </provider>
@@ -38,7 +52,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DrawChessTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="336">
               <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
@@ -47,25 +61,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AverageOfInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="224">
               <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DrawDiamond.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="152">
               <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ParametricAverage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="312">
               <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
             </state>
           </provider>
@@ -74,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PrintBigger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="240">
               <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
             </state>
           </provider>
@@ -83,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GuessTheNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="400">
               <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
             </state>
           </provider>
@@ -92,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cuboid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="16">
               <caret line="1" column="44" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="44" />
             </state>
           </provider>
@@ -154,9 +168,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
-    <option name="y" value="128" />
+    <option name="y" value="127" />
     <option name="width" value="1440" />
-    <option name="height" value="773" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -164,6 +178,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,14 +196,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -207,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ParametricAverage">
+  <component name="RunManager" selected="Application.DrawDiamond">
     <configuration name="AverageOfInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AverageOfInput" />
       <module name="Practicing" />
@@ -245,10 +260,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DrawDiamond" />
         <item itemvalue="Application.ParametricAverage" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="Application.AverageOfInput" />
-        <item itemvalue="Application.DrawDiamond" />
         <item itemvalue="Application.PrintBigger" />
       </list>
     </recent_temporary>
@@ -268,17 +283,17 @@
       <workItem from="1554447989155" duration="25722000" />
       <workItem from="1554636777570" duration="8953000" />
       <workItem from="1554887056566" duration="80000" />
+      <workItem from="1556303349161" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57026000" />
+    <option name="totallyTimeSpent" value="57069000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11275168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.113788486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -287,7 +302,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32719547" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32676056" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -510,57 +525,57 @@
     <entry file="file://$PROJECT_DIR$/src/Practice.java" />
     <entry file="file://$PROJECT_DIR$/src/DrawPyramid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="256">
           <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="31" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DrawChessTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="336">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AverageOfInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="224">
           <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DrawDiamond.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PrintBigger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="240">
           <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GuessTheNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="400">
           <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Cuboid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="16">
           <caret line="1" column="44" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ParametricAverage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="312">
           <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DrawDiamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
         </state>
       </provider>
     </entry>

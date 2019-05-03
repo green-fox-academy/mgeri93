@@ -22,5 +22,8 @@ public class FleetOfThings {
     lunch.complete();
 
     System.out.println(fleet);
+    System.out.println(standUp.compareTo(milk));
+
+
   }
 }

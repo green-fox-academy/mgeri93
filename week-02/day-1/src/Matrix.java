@@ -1,5 +1,6 @@
 public class Matrix {
-  public static void main(String[] args){
+
+  public static void main(String[] args) {
     // - Create (dynamically) a two dimensional array
     //   with the following matrix. Use a loop!
     //
@@ -14,9 +15,9 @@ public class Matrix {
     int b = 4;
 
     int[][] matrix = new int[a][b];
-    for (int i = 0; i < a; i++){
-      for (int j = 0; j < b; j++){
-        if (i == j){
+    for (int i = 0; i < a; i++) {
+      for (int j = 0; j < b; j++) {
+        if (i == j) {
           matrix[i][j] = 1;
           System.out.print(matrix[i][j]);
         } else {

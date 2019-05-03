@@ -47,6 +47,12 @@ Do we know Chris E. Myers' phone number?
       System.out.println("No, we don't know Chris E. Myers' number.");
     }
 
+    for (String name : map.keySet()){
+      if (map.get(name) == "307-687-2982"){
+        System.out.println(name);
+      }
+    }
+
 
   }
 

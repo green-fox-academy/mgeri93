@@ -8,5 +8,8 @@ public class SwapElements {
     c = abc[0];
     abc[0] = abc[2];
     abc[2] = c;
+
+    for ( String text : abc)
+    System.out.println(text);
   }
 }
