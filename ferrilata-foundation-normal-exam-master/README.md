@@ -112,6 +112,11 @@ Your task is to create a program to model the every day life in a restaurant.
 
 ### What is a unit test? What are different test cases?
 A unit test is a piece of code which executes a specific functionality in the code to be tested and asserts a certain behavior or state.
+the best two cases for example:
+enter the expected result and check if matches with the actual restult
+testing negative scenarios to make sure the method wouldn't give false results
+
+
 
 ### What is the difference between runtime and compile time error? Write 1-1 example.
 A run time error will only occur when the code is actually running, this will crash your program.
