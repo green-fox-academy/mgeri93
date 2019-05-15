@@ -1,5 +1,4 @@
-package PACKAGE_NAME;
-
 public class Exercise10Main {
+
 
 }
