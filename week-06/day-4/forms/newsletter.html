@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+ <link rel="stylesheet" type=text/css href="loginstyle.css">
+
+  <title>Document</title>
+  <style>
+    input {
+      display: block;
+    }
+    input[type=password]:focus {
+    }
+  </style>
+</head>
+<body>
+  
+  <form method="POST" action="https://newsletter-ws.herokuapp.com/signup">
+      
+    <label>Name</label>
+    <input type="text" placeholder="" name="Name" autofocus>
+    <label>Email</label>
+    <input type="email" name="email">
+    <input type="submit" value="Submit">    
+    
+   
+  </form>
+  
+</body>
+</html>
