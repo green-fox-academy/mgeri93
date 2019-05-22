@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+
+<table>
+  <thead>
+    <th>Index</th>
+    <th>King</th>
+    <th>Name</th>
+    <th>Balance</th>
+    <th>Animal Type</th>
+    <th>Side</th>
+  </thead>
+  <tbody th:each="account : ${bankAccountList}">
+  <tr>
+    <td th:text="${accountStat.index}"></td>
+    <td th:text= "${account.showKing()}" th:if="${account.isKing() == true}" style="color: orangered"></td>
+    <td th:text= "${account.showKing()}" th:if="${account.isKing() == false}"></td>
+    <td th:text="${account.name}"></td>
+    <td th:text="${#numbers.formatDecimal(account.balance,1,2,'POINT')}"></td>
+    <td th:text="${account.animalType}"></td>
+    <td th:text="${account.showSide()}"></td>
+  </tr>
+
+  </tbody>
+</table>
+
+</body>
+</html>

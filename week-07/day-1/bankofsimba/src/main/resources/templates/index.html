@@ -1,10 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html xmlns:th="http://www.thymeleaf.org">
 <head>
-  <meta charset="UTF-8">
-  <title>Title</title>
+  <title>Accounts</title>
+  <meta charset="utf-8"/>
 </head>
 <body>
+
+<ul>
+  <li th:each="account : ${bankAccountList}"
+      th:text="|Hello  ${account.name}  you have  ${#numbers.formatDecimal(account.balance,1,2,'POINT')} ${account.currency} on your account, and you are a ${account.animalType} |"></li>
+</ul>
+
 
 </body>
 </html>

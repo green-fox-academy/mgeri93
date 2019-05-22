@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <title>Useful</title>
+  <meta charset="utf-8"/>
+</head>
+<body th:bgcolor="${color}">
+  <a href="/useful">Useful Links</a>
+  <a href="/useful/colored">Colored Page</a>
+  <a href="/useful/email">E-mail</a>
+  <a href="/useful/encode?text=example&number=1">Encode</a>
+  <a href="/useful/decode?text=fybnqmf&number=1">Decode</a>
+  <p th:text="'Encoded message: ' + ${encoded}"></p>
+  <p th:text="'Decoded message: ' +  ${decoded}"></p>
+</body>
+</html>

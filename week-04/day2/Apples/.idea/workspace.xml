@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f4cae1c-8c04-43a5-a552-ff0093f061a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Apples.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/AppleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flyable/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flyable/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flyable/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flyable/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flyable/Flyable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flyable/src/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flyable/src/Helicopter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Flyable/src/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Anagram/src/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Anagram/test/AnagramTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Sum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Sum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Sum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Sum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Sum/Sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Sum/src/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day3/Sum/test/SumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/src/FleetOfThings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/src/FleetOfThings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/src/Thing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings/src/Thing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-03/day04/Pirates/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day04/Pirates/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-03/day04/Pirates/src/Armada.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day04/Pirates/src/Armada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day1/GreenFox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day1/GreenFox/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Instruments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Instruments/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Instruments/src/AppMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Instruments/src/AppMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-06/day-2/src/Exercises.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +26,6 @@
                   <folding>
                     <element signature="e#68#69#0" expanded="true" />
                     <element signature="e#96#97#0" expanded="true" />
-                    <element signature="e#128#129#0" expanded="true" />
-                    <element signature="e#150#151#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -76,7 +43,7 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test/AppleTest.java">
               <provider selected="true" editor-type-id="text-editor">
@@ -130,6 +97,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,8 +119,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,7 +131,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../day3/Sum" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../week-03/day03/FleetOfThings" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -230,6 +197,7 @@
       <updated>1556183175032</updated>
       <workItem from="1556183178336" duration="1510000" />
       <workItem from="1556185667310" duration="2159000" />
+      <workItem from="1557825192371" duration="19000" />
     </task>
     <servers />
   </component>
@@ -245,12 +213,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3669000" />
+    <option name="totallyTimeSpent" value="3688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10174029" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10307898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -287,6 +255,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Test/AppleTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Tests/AppleTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/AppleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -294,16 +269,7 @@
           <folding>
             <element signature="e#68#69#0" expanded="true" />
             <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/AppleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
