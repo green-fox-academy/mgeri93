@@ -5,6 +5,13 @@
   <meta charset="utf-8"/>
 </head>
 <body>
+  <ul>
+    <li th:action="@{/(name=${name})}" method="get"><a href>Information</a></li>
+    <li><a href="/login">Login</a></li>
+    <li th:action="@{/(name=${name})/nutritionStore}" method="get"><a href>Nutrition Store</a></li>
+
+
+  </ul>
 
 </body>
 </html>

@@ -41,7 +41,13 @@ public class MainController {
 
   @GetMapping("/nutritionStore")
   public String nutritionStore(@RequestParam (name = "name") String name, Model model){
+    model.addAttribute("name", name);
     return "nutritionStore";
+  }
+
+  @PostMapping("/nutritionStore")
+  public String feed(@RequestParam (name = "name") String name, String food, String drink, Model model){
+    return "redirect:/?name=" +name;
   }
 
   @GetMapping("/login")
