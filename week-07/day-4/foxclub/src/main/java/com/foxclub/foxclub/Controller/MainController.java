@@ -1,5 +1,8 @@
 package com.foxclub.foxclub.Controller;
 
+import com.foxclub.foxclub.Model.Fox;
+import java.util.ArrayList;
+import java.util.List;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -17,9 +20,28 @@ optional: in case the given parameter value is a new one, the program should red
 @Controller
 public class MainController {
 
-  @GetMapping("/index")
-  public String index(){
-    return "index";
+  List<Fox> foxes = new ArrayList<>();
+
+
+  @GetMapping("/")
+  public String index(@RequestParam (name = "name", required = false) String name, Model model){
+    if (name == null) {
+      return "redirect:/login";
+    } else {
+      foxes.add(new Fox(name));
+      model.addAttribute("name", name);
+      model.addAttribute("numberOfTricks", foxes.get(foxes.size() - 1).getTricks().size());
+      model.addAttribute("diet", foxes.get(foxes.size()-1).getDiet()[0]);
+      model.addAttribute("food", foxes.get(foxes.size() - 1).getDiet()[0]);
+      model.addAttribute("drink", foxes.get(foxes.size() - 1).getDiet()[1]);
+      model.addAttribute("tricks", foxes.get(foxes.size() - 1).getTricks());
+      return "index";
+    }
+  }
+
+  @GetMapping("/nutritionStore")
+  public String nutritionStore(@RequestParam (name = "name") String name, Model model){
+    return "nutritionStore";
   }
 
   @GetMapping("/login")
@@ -30,7 +52,9 @@ public class MainController {
   @PostMapping("/login")
   public String post(@RequestParam("name") String name, Model model ){
     model.addAttribute("name", name);
-    return "index";
+    return "redirect:/?name=" +name;
   }
+
+
 
 }

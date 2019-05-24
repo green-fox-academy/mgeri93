@@ -6,20 +6,25 @@
 </head>
 <body>
   <ul>
-    <li><a href="/">Information</a></li>
-  <ul>
-
-  <br><img src="greenfox.png" alt="Fox">
-
-  <p>This is Mr. Fox. Currently living on pizza and lemonade. He knows 2 tricks.</p>
+    <li th:action="@{/(name=${name})}" method="get"><a href>Information</a></li>
+    <li><a href="/login">Login</a></li>
+  </ul>
+  <br>
+  <img src="/greenfox.png" alt="Fox">
+  <p th:text="|This is ${name}. Currently living on:|"></p>
+ <div th:switch="${diet}">
+    <p th:case="null">nothing. Starving...</p>
+    <p th:case="*" th:text="|${food} and ${drink}.|"></p>
+  </div>
+  <p th:text="|He knows ${numberOfTricks} tricks.|"></p>
 
   <h1>Known tricks</h1>
 
-<ul>
-  <li>write HTML</li>
-  <li>code in Java</li>
-</ul>
+  <p th:if="${tricks.isEmpty()}">You don't know any tricks. Go and learn some!</p>
 
+  <ul th:unless="${tricks.isEmpty()}">
+    <li th:text="${tricks}"></li>
+  </ul>
 
 </body>
 </html>
