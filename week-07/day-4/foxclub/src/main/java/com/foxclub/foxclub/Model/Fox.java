@@ -4,24 +4,25 @@ import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Service;
 
-@Service
+
 public class Fox {
 
   private String name;
-  private List tricks = new ArrayList<>();
+  private List<String> tricks;
   private String food;
   private String drink;
   private String [] diet = new String[2];
 
-  public Fox(String name, List tricks, String food, String drink) {
+  public Fox(String name, String food, String drink) {
     this.name = name;
-    this.tricks = tricks;
+    this.tricks = new ArrayList<>();
     this.food = food;
     this.drink = drink;
   }
 
   public Fox(String name) {
     this.name = name;
+    tricks = new ArrayList<>();
   }
 
   public Fox() {

@@ -31,9 +31,7 @@ public class HomeController {
     model.addAttribute("color",utilityService.randomColor());
     return "useful";
   }
-/*  Display the following to the user
-  is@this.valid is a valid email address in green
-  not_valid_email.com is not a valid email address in red*/
+
   @GetMapping("/useful/email")
   public String email(@RequestParam("email") String email, Model model){
     model.addAttribute("address", email);

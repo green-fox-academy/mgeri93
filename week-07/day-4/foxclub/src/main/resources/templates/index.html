@@ -5,27 +5,33 @@
   <meta charset="utf-8"/>
 </head>
 <body>
-  <ul>
-    <li th:action="@{/(name=${name})}" method="get"><a href>Information</a></li>
-    <li><a href="/login">Login</a></li>
-    <li th:action="@{/(name=${name})/nutritionStore}" method="get"><a href>Nutrition Store</a></li>
-  </ul>
-  <br>
-  <img src="/greenfox.png" alt="Fox">
-  <p th:text="|This is ${name}. Currently living on:|"></p>
- <div th:switch="${diet}">
-    <p th:case="null">nothing. Starving...</p>
-    <p th:case="*" th:text="|${food} and ${drink}.|"></p>
-  </div>
-  <p th:text="|He knows ${numberOfTricks} tricks.|"></p>
+<ul>
+  <!--<li th:action="@{/(name=${name})}" method="get"><a href>Information</a></li>-->
 
-  <h1>Known tricks</h1>
+  <li><a th:href="| /?name=${fox.name} |">Information</a> </li>
 
-  <p th:if="${tricks.isEmpty()}">You don't know any tricks. Go and learn some!</p>
+  <li><a href="/login">Login</a></li>
+  <!--<li th:action="@{/(name=${name})/nutritionStore}" method="get"><a href>Nutrition Store</a></li>-->
+</ul>
 
-  <ul th:unless="${tricks.isEmpty()}">
-    <li th:text="${tricks}"></li>
-  </ul>
+<br>
+<img src="/greenfox.png" alt="Fox">
+<p th:text="|This is ${fox.name}. Currently living on: |"></p>
+
+<div th:switch="${fox.food}">
+  <p th:case="null">nothing. Starving...</p>
+  <p th:case="*" th:text="|${fox.food} and ${fox.drink}.|"></p>
+</div>
+
+<p th:text="|He knows ${fox.getTricks().size() } tricks.|"></p>
+
+<h1>Known tricks</h1>
+
+<p th:if="${fox.getTricks().isEmpty()}">You don't know any tricks. Go and learn some!</p>
+
+<ul th:unless="${fox.getTricks().isEmpty()}">
+  <li th:each="trick : ${fox.getTricks()}" th:text=trick></li>
+</ul>
 
 </body>
 </html>
