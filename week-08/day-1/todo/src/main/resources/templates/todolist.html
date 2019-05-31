@@ -7,6 +7,10 @@
 </head>
 <body>
 <div>
+  <a href="http://localhost:8080/">Home</a>
+  <a href="/todo/list">Todo List</a>
+  <a href="/assignees/">Assignees</a>
+  <br>
   <a href="/todo/add">Add new todo</a>
   <form th:action="@{/todo/search}" method = "Get" th:object="${todo}">
     <label th:text="Search"></label>

@@ -10,6 +10,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
@@ -33,6 +34,24 @@ public class AssigneesController {
   }
   @PostMapping("/")
   public String add(@ModelAttribute("assignee") Assignee assignee) {
+    assigneeRepository.save(assignee);
+    return "redirect:/assignees/";
+  }
+
+  @GetMapping("/{id}/delete")
+  public String delete(@PathVariable Long id) {
+    assigneeRepository.deleteById(id);
+    return "redirect:/assignees/";
+  }
+
+  @GetMapping("/{id}/modify")
+  public String showModify(Model model, @PathVariable Long id) {
+    model.addAttribute("assignee", assigneeRepository.findById(id).get());
+    return "modify";
+  }
+
+  @PostMapping("/{id}/modify")
+  public String modify(@ModelAttribute("assignee") Assignee assignee) {
     assigneeRepository.save(assignee);
     return "redirect:/assignees/";
   }

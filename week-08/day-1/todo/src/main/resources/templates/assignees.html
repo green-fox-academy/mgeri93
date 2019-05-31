@@ -6,6 +6,9 @@
   <title>Assignees</title>
 </head>
 <body>
+<a href="http://localhost:8080/">Home</a>
+<a href="/todo/list">Todo List</a>
+<a href="/assignees/">Assignees</a>
 <form th:action="@{/assignees/}" method="Post" th:object="${assignee}">
   <input type="text" id="name" th:field="*{name}" placeholder="Enter name" required>
   <input type="email" id="email" th:field="*{email}" placeholder="Enter E-mail address" required>
@@ -25,6 +28,8 @@
     <td th:text="${assignee.id}"></td>
     <td><a th:text="${assignee.name}"></a></td>
     <td th:text="${assignee.email}"></td>
+    <td><a th:href="|${assignee.id}/modify|" th:text="modify"></a></td>
+    <td><a th:href="|${assignee.id}/delete|" th:text="delete"></a></td>
   </tbody>
 </table>
 

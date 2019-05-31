@@ -7,11 +7,14 @@
   <title>Add Todo</title>
 </head>
 <body>
+<a href="http://localhost:8080/">Home</a>
+<a href="/todo/list">Todo List</a>
+<a href="/assignees/">Assignees</a>
 <div>
   <h1>Add new todo</h1>
   <form th:action="@{/todo/add}" method="Post" th:object="${todo}">
     <input type="text" id="title" th:name="title" th:field="*{title}" placeholder="Todo description">
-    <input type="submit">
+    <input type="submit" value="Add Todo">
   </form>
 </div>
 </body>
