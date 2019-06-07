@@ -5,6 +5,7 @@ import com.todo.todo.Repository.TodoRepository;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Service;
+import org.springframework.ui.Model;
 
 @Service
 public class TodoServiceImp implements ITodoService {
@@ -35,6 +36,15 @@ public class TodoServiceImp implements ITodoService {
   @Override
   public Todo findByTitle(String title){
     return todoRepository.findByTitle(title);
+  }
+
+  @Override
+  public void search(String title, Model model) {
+    {
+      if (title != null) {
+        model.addAttribute("todos", todoRepository.findByTitleContaining(title));
+      }
+    }
   }
 
 }

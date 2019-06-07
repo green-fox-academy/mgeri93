@@ -70,6 +70,12 @@ public class TodoController {
   }
 
   @GetMapping("/search")
+  public String findByTitle(Model model, @RequestParam(value = "title") String title) {
+    todoService.search(title, model);
+    return "todolist";
+  }
+
+/*  @GetMapping("/search")
   public String search(@RequestParam(name = "title") String title, Model model) {
     if (title == null) {
       return "todolist";
@@ -77,6 +83,6 @@ public class TodoController {
       model.addAttribute("todo", todoService.findByTitle(title));
       return "description";
     }
-  }
+  }*/
 
 }

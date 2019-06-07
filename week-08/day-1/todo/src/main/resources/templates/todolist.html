@@ -12,10 +12,17 @@
   <a href="/assignees/">Assignees</a>
   <br>
   <a href="/todo/add">Add new todo</a>
+ <!-- OLD SEARCH:-->
   <form th:action="@{/todo/search}" method = "Get" th:object="${todo}">
     <label th:text="Search"></label>
     <input th:type="search" name="title" placeholder="Search for a task" required>
     <input th:type="submit" th:value="Go">
+  </form>
+<!--  NEW SEARCH-->
+  <form th:action="@{/todo/search}" method="GET" th:object="${todo}">
+    <span>Search:</span>
+    <input type="text" name="title" placeholder="Search for...">
+    <input type="submit" th:value="Submit">
   </form>
   <table>
     <thead>
