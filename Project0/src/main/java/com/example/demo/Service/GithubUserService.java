@@ -1,15 +1,15 @@
-package com.example.demo.APIs;
+package com.example.demo.Service;
 
 
+import com.example.demo.Repository.GithubUserRepo;
+import com.example.demo.Model.GithubUser;
 import java.util.ArrayList;
 import java.util.List;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 import retrofit2.Call;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
-import retrofit2.http.Path;
 import java.io.IOException;
 
 @Service

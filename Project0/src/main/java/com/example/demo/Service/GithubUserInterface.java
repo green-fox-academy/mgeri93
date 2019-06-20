@@ -1,12 +1,10 @@
-package com.example.demo.APIs;
+package com.example.demo.Service;
 
 
-import com.example.demo.APIs.GithubUser;
-import java.util.List;
+import com.example.demo.Model.GithubUser;
 import retrofit2.Call;
 import retrofit2.http.GET;
 import retrofit2.http.Path;
-import retrofit2.http.Query;
 
 public interface GithubUserInterface {
 

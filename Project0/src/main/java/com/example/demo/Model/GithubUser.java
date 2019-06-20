@@ -1,4 +1,4 @@
-package com.example.demo.APIs;
+package com.example.demo.Model;
 
 import com.sun.javafx.beans.IDProperty;
 import javax.persistence.Entity;
